@@ -47,4 +47,4 @@ The objective of this project is to build a machine learning model that classifi
 The project successfully classifies spam and ham messages using Natural Language Processing and Machine Learning techniques. TF-IDF vectorization effectively converts text into numerical features, and the trained models achieve high classification performance. Recall is particularly important because missing spam messages can allow unwanted emails to reach a user's inbox.
 
 ## Author
-**Vishal G**
+**CH Pranav**
