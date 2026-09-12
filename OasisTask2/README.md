@@ -35,4 +35,4 @@ The objective of this project is to analyze unemployment trends in India using P
 The analysis shows that unemployment rates increased significantly during the COVID-19 pandemic. Regional variations are clearly visible, and the visualizations help understand the impact of the pandemic on employment across India.
 
 ## Author
-**Vishal G**
+**CH Pranav**
