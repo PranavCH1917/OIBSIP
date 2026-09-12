@@ -46,4 +46,4 @@ The objective of this project is to build a machine learning model that predicts
 The Random Forest Regressor generally provides better prediction accuracy than Linear Regression because it can capture complex relationships between vehicle features and selling price. The project demonstrates the complete workflow of a machine learning regression problem, from data preprocessing and visualization to model evaluation.
 
 ## Author
-**Vishal G**
+**CH Pranav**
